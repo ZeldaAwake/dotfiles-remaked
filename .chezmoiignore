@@ -81,4 +81,9 @@ temp
 LICENSE
 README.md
 
+# Ignorar a pasta de fontes caso esteja lidando manualmente
+.local/share/fonts/fira-sans
+
+# Outras regras já existentes no seu arquivo...
+
 {{- end -}}
